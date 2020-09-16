@@ -1,2 +1,2 @@
 # Creditcard-Default-Prediction
-Credit Card default Prediction using Flask.
+Credit Card default Prediction model deployment using Flask.
