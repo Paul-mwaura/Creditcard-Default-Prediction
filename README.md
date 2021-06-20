@@ -10,12 +10,12 @@ I have used three machine Learning models in this project
 The deployment project code has only included the Catboost model <a href="https://docs.python.org/3/library/pickle.html>pickle file.</a>
 
 ## Technologies Used
-> Matplotlib
-> Numpy
-> Keras
-> Sklearn
-> Python
-> Jupyter Notebook
+* Matplotlib
+* Numpy
+* Keras
+* Sklearn
+* Python
+* Jupyter Notebook
 
 ## Known Bugs.
 {There are no known bugs}
